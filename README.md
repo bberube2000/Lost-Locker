@@ -1,2 +1,2 @@
 # Lost-Locker-
-Code samples from a web application that is currently being developed by a team and I at my university. The software aims to create a virtual lost and found service for USD student and faculty. 
+Code samples from a web application that is currently being developed by a team and I at my university. The software aims to create a virtual lost and found service for USD student and faculty. Attached in this repository are scripts containing the backend development of the web app, utilizing Flask to connect our functionality to a PostgreSQL db service, as well as our frontend UI. We plan to host this web app on AWS cloud services, anticipating its release to the university public by the end of May. 
